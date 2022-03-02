@@ -4,7 +4,7 @@ C- Programming 요약
 ------------------
 
 
-```c99
+```c
 #include <stdio.h>
 
 int main(){
